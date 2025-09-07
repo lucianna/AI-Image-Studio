@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "Generate stunning images from text prompts, or use an existing image as a reference. This app uses Gemini to create two unique variations for each request, with options for different aspect ratios.",
+  "requestFramePermissions": []
+}
